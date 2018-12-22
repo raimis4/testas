@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pazaiskime su smegenimis
+=======
+This is file prod.txt from master
+>>>>>>> master
